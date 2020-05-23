@@ -27,6 +27,14 @@
 #bemutatkozas p.hello {
 	text-indent: -50px;
 }
+
+#bemutatkozas p.iskola {
+	text-indent: -50px;
+	font-size: 24px;
+	/*font-weight: bold;*/
+	line-height: 150%;
+}
+
 img {
 	position: relative;
 	top: 40px;
