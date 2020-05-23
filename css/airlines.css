@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+    text-align: center;
+    background-color: #ccc;
+    margin: 0;
+    padding: 20px 0;
+}
+
+
+main {
+    width: 800px;
+    margin: 0 auto;
+}
+
+menu p {
+    display: inline;
+}
+
+menu a {
+    color: #3cb878;
+}
+
+#airlinesList ul {
+    margin-left: 40px;
+}
+
+#airlinesList li {
+    margin-bottom: 5px;
+}
+
+#airlinesList a {
+    color: #3cb878;
+    font-size: 20px;
+}
+

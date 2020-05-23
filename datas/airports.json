@@ -1,0 +1,24 @@
+[
+    {
+        "code" : "ATL",
+        "name" : "Hartsfield-Jackson Atlanta International",
+        "flights" : 426030,
+        "lat" : 33.6367,
+        "long" : -84.428101 
+
+    },
+    {
+        "code" : "ORD",
+        "name" : "Chicago O'Hare International",
+        "flights" : 363402,
+        "lat" : 41.9786,
+        "long" : -87.9048
+    },
+    {
+        "code" : "DFW",
+        "name" : "Dallas/Fort Worth International",
+        "flights" : 328617,
+        "lat" : 32.896801,
+        "long" : -97.038002
+    }
+]

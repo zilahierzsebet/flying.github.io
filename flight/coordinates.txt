@@ -1,0 +1,3 @@
+Atlanta, GA: Hartsfield-Jackson Atlanta International lat:33.6367 long:-84.428101
+Chicago, IL: Chicago O'Hare International lat:41.9786 long:-87.9048
+Dallas/Fort Worth, TX: Dallas/Fort Worth International lat:32.896801 long:-97.038002

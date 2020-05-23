@@ -1,0 +1,4 @@
+Code *****Name of the Airline****** Avg Minutes
+HA   Hawaiian Airlines Inc.                4.42
+WN   Southwest Airlines Co.                8.40
+AS   Alaska Airlines Inc.                  9.41

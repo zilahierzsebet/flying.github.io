@@ -1,0 +1,20 @@
+[
+{ "code":"HA", "name":"Hawaiian Airlines Inc.", "flights":"90637", "airNum":"19",   "delAvg":"11.02", "minAvg":"4.42", "topPort":"HNL" }, 
+{ "code":"WN", "name":"Southwest Airlines Co.", "flights":"1463985", "airNum":"90",   "delAvg":"16.18", "minAvg":"8.40", "topPort":"MDW" }, 
+{ "code":"AS", "name":"Alaska Airlines Inc.", "flights":"284697", "airNum":"77",   "delAvg":"18.30", "minAvg":"9.41", "topPort":"SEA" }, 
+{ "code":"DL", "name":"Delta Air Lines Inc.", "flights":"1073663", "airNum":"154",   "delAvg":"14.15", "minAvg":"9.58", "topPort":"ATL" }, 
+{ "code":"YX", "name":"Republic Airline", "flights":"360077", "airNum":"120",   "delAvg":"17.68", "minAvg":"12.21", "topPort":"LGA" }, 
+{ "code":"NK", "name":"Spirit Air Lines", "flights":"224464", "airNum":"52",   "delAvg":"18.20", "minAvg":"12.59", "topPort":"FLL" }, 
+{ "code":"MQ", "name":"Envoy Air", "flights":"351701", "airNum":"169",   "delAvg":"19.66", "minAvg":"12.79", "topPort":"ORD" }, 
+{ "code":"9E", "name":"Endeavor Air Inc.", "flights":"281625", "airNum":"127",   "delAvg":"16.39", "minAvg":"13.02", "topPort":"ATL" }, 
+{ "code":"AA", "name":"American Airlines Inc.", "flights":"1018437", "airNum":"117",   "delAvg":"20.04", "minAvg":"13.58", "topPort":"DFW" }, 
+{ "code":"OH", "name":"PSA Airlines Inc.", "flights":"313346", "airNum":"104",   "delAvg":"20.31", "minAvg":"14.28", "topPort":"CLT" }, 
+{ "code":"G4", "name":"Allegiant Air", "flights":"115030", "airNum":"126",   "delAvg":"20.38", "minAvg":"14.40", "topPort":"SFB" }, 
+{ "code":"OO", "name":"SkyWest Airlines Inc.", "flights":"909735", "airNum":"277",   "delAvg":"17.61", "minAvg":"14.83", "topPort":"ORD" }, 
+{ "code":"UA", "name":"United Air Lines Inc.", "flights":"673640", "airNum":"122",   "delAvg":"20.14", "minAvg":"15.03", "topPort":"ORD" }, 
+{ "code":"F9", "name":"Frontier Airlines Inc.", "flights":"149912", "airNum":"106",   "delAvg":"23.65", "minAvg":"16.10", "topPort":"DEN" }, 
+{ "code":"YV", "name":"Mesa Airlines Inc.", "flights":"244057", "airNum":"130",   "delAvg":"20.15", "minAvg":"16.39", "topPort":"DFW" }, 
+{ "code":"EV", "name":"ExpressJet Airlines Inc.", "flights":"24389", "airNum":"111",   "delAvg":"23.21", "minAvg":"18.56", "topPort":"IAH" }, 
+{ "code":"B6", "name":"JetBlue Airways", "flights":"321204", "airNum":"70",   "delAvg":"23.41", "minAvg":"18.57", "topPort":"BOS" }, 
+{ "code":"EV", "name":"ExpressJet Airlines LLC", "flights":"119067", "airNum":"120",   "delAvg":"23.20", "minAvg":"19.97", "topPort":"IAH" } 
+]
